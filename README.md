@@ -17,9 +17,9 @@ Tabla post
     {
     "id": 104,
     "name": "post 001",
-    "url_image": "descripcion post 001",
+    "descripcion": "descripcion post 001"
 
-    },
+    }
 ]
 ```
 
@@ -44,7 +44,7 @@ Las peticiones POST a /post se inserta post
     {
 
     "name": "post 007",
-    "descripcion": "descripcion post 007",
+    "descripcion": "descripcion post 007"
 
     }
 
